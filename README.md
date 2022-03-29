@@ -4,13 +4,9 @@
 ## 🚀 About Me
 I’m a soon to be School of Code graduate seeking a role as a junior web developer.
 
-👩‍💻 I'm currently working on...
-
-Finding a new project to begin that will incorporate typescript and mongoDB.
-
 🧠 I'm currently learning...
 
- React Framework Next.js and Chakra
+Svelte and Firebase 
 
 ⚡️ Fun fact...
 
