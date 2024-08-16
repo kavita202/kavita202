@@ -2,11 +2,7 @@
 
 
 ## 🚀 About Me
-I’m a soon to be School of Code graduate seeking a role as a junior web developer.
-
-🧠 I'm currently learning...
-
-Svelte and Firebase 
+Software web developer who graduated from the school of code. 
 
 ⚡️ Fun fact...
 
